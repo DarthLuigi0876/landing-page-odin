@@ -26,7 +26,7 @@
     margin: 10px;
     justify-content: center;
     text-decoration: none;
-    color:#a6a6a8;
+    color:#e5e7eb;
     font-size:14px;
 }
 .hero-text{
@@ -36,7 +36,7 @@
 }
 .subtext{
     size: 18px;
-    color:#a6a6a8;
+    color:#6d6e6f;
 }
 button{
     background-color:#3882f6;
@@ -88,4 +88,22 @@ button{
     flex:1 1 auto;
     width:100px;
     border-radius: 10px;
+}
+
+.quote{
+    background-color:#e5e7eb;
+    padding:5% 20%;
+    justify-content: center;
+    align-items: center;
+}
+.quote-text{
+    text-align: justify;
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight:100;
+}
+.quote-author{
+    text-align-last: right;
+    font-weight: 900;
 }
