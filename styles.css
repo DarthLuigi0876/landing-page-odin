@@ -147,3 +147,11 @@ button{
 button{
     border:none;
 }
+
+.footer{
+    background-color: #1f2937;
+    padding: 30px 0px;
+    color: #e5e7eb;
+    text-align: center;
+    font-size: 14px;
+}
